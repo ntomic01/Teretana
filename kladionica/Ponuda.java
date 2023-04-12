@@ -10,6 +10,6 @@ public interface Ponuda {
 
     Utakmica pronadjiUtakmicu(Integer sifraUtakmice);
 
-    void dodajUtakmicu(Utakmica utakmica);
+    void dodajUtakmicu(String text);
 
 }

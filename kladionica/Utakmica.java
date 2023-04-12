@@ -5,12 +5,8 @@ import java.util.Map;
 public class Utakmica {
 
     private Integer sifra;
-
     private String domacin;
-
     private String gost;
-
-    // 1 - 1.5 (X - 3.5) 2 - 4.2
     private Map<String, Double> kvote;
 
     public Utakmica(Integer sifra, String domacin, String gost, Map<String, Double> kvote) {
@@ -61,4 +57,5 @@ public class Utakmica {
                 ", kvote=" + kvote +
                 '}';
     }
+
 }

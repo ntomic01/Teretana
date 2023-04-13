@@ -1,9 +1,0 @@
-1,Zvezda,Partizan,1.8,3.45,4.7
-2,Mladost,Napredak,1.5,4.5,6.0
-3,Napoli,Milan,2,3.4,4
-4,Atletiko Madrid,Real Betis,1.52,4.3,6.8
-5,PSG,Lion,1.45,5.2,6.4
-6,Chelsea,Real Madrid,2.45,3.8,2.56
-7,Napoli,Milan,1.85,3.65,4.8
-8,Cukaricki,TSC,2,3.5,2.8
-9,Vojvodina,Vozdovac,1.5,4,5

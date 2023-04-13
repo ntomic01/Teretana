@@ -6,3 +6,4 @@
 6,Chelsea,Real Madrid,2.45,3.8,2.56
 7,Napoli,Milan,1.85,3.65,4.8
 8,Cukaricki,TSC,2,3.5,2.8
+9,Vojvodina,Vozdovac,1.5,4,5
